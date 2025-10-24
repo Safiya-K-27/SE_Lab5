@@ -1,0 +1,30 @@
+inventory_system.py:20:80: E501 line too long (92 > 79 characters)
+inventory_system.py:23:1: W293 blank line contains whitespace
+inventory_system.py:31:1: W293 blank line contains whitespace
+inventory_system.py:35:1: W293 blank line contains whitespace
+inventory_system.py:37:80: E501 line too long (83 > 79 characters)
+inventory_system.py:39:1: W293 blank line contains whitespace
+inventory_system.py:49:1: W293 blank line contains whitespace
+inventory_system.py:53:1: W293 blank line contains whitespace
+inventory_system.py:61:1: W293 blank line contains whitespace
+inventory_system.py:65:1: W293 blank line contains whitespace
+inventory_system.py:69:80: E501 line too long (85 > 79 characters)
+inventory_system.py:71:80: E501 line too long (85 > 79 characters)
+inventory_system.py:81:1: W293 blank line contains whitespace
+inventory_system.py:84:1: W293 blank line contains whitespace
+inventory_system.py:97:1: W293 blank line contains whitespace
+inventory_system.py:100:1: W293 blank line contains whitespace
+inventory_system.py:111:80: E501 line too long (82 > 79 characters)
+inventory_system.py:122:1: W293 blank line contains whitespace
+inventory_system.py:125:1: W293 blank line contains whitespace
+inventory_system.py:155:1: W293 blank line contains whitespace
+inventory_system.py:158:1: W293 blank line contains whitespace
+inventory_system.py:172:1: W293 blank line contains whitespace
+inventory_system.py:177:1: W293 blank line contains whitespace
+inventory_system.py:181:1: W293 blank line contains whitespace
+inventory_system.py:184:80: E501 line too long (81 > 79 characters)
+inventory_system.py:185:1: W293 blank line contains whitespace
+inventory_system.py:189:1: W293 blank line contains whitespace
+inventory_system.py:193:1: W293 blank line contains whitespace
+inventory_system.py:196:1: W293 blank line contains whitespace
+inventory_system.py:202:11: W292 no newline at end of file
